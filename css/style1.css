@@ -376,17 +376,15 @@
 .put_by_point {
 	position: absolute;
 	background-color: #ffb300;
-	padding: 0px 3px;
+	padding: 28px 28px;
 	border-radius: 15px;
 	color: white;
 	top: 10px;
-	width: 56px;
 	right: 10px;
-	height: 56px;
 }
 
 .number_top {
-	left: 18px;
+	margin-left: -20px;
 	position: absolute;
 	top: 5px;
 }
