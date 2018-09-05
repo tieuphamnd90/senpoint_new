@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 41.758 41.758">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fbc851"/>
+      <stop offset="1" stop-color="#f59504"/>
+    </linearGradient>
+  </defs>
+  <g id="Symbol_42_2" data-name="Symbol 42 – 2" transform="translate(-24 -299)">
+    <circle id="Ellipse_8" data-name="Ellipse 8" class="cls-1" cx="20.879" cy="20.879" r="20.879" transform="translate(24 299)"/>
+    <g id="meeting-point" transform="translate(36.649 308.889)">
+      <path id="Path_164" data-name="Path 164" class="cls-2" d="M170.653,68.835a4.771,4.771,0,1,1,1.358-9.345.53.53,0,1,1-.3,1.016,3.71,3.71,0,1,0,2.5,2.5.53.53,0,1,1,1.017-.3,4.771,4.771,0,0,1-4.575,6.124Z" transform="translate(-162.61 -56.15)"/>
+      <path id="Path_165" data-name="Path 165" class="cls-2" d="M302.976,83.8a.529.529,0,0,1-.375-.155l-.009-.009a.53.53,0,1,1,.75-.75l.009.009a.53.53,0,0,1-.375.9Z" transform="translate(-291.925 -78.346)"/>
+      <path id="Path_168" data-name="Path 168" class="cls-2" d="M161.108,330.042a.53.53,0,0,1-.139-1.041l.036-.009a.53.53,0,1,1,.1,1.05Z" transform="translate(-157.587 -311.542)"/>
+      <path id="Path_169" data-name="Path 169" class="cls-2" d="M112.194,326.719c-4,0-8.05-1.042-8.05-3.035,0-.5.277-1.238,1.6-1.884a.53.53,0,1,1,.466.952c-.627.307-1,.655-1,.931,0,.3.482.816,1.84,1.268a19.125,19.125,0,0,0,10.3,0c1.358-.452,1.84-.966,1.84-1.268,0-.627-1.843-1.639-5.3-1.91a.53.53,0,1,1,.083-1.057c2.9.227,6.282,1.14,6.282,2.967C120.244,325.676,116.195,326.719,112.194,326.719Z" transform="translate(-104.144 -303.714)"/>
+      <path id="Path_163" data-name="Path 163" class="cls-2" d="M116.566,20.142a.53.53,0,0,1-.418-.2l-5.61-7.187q-.014-.018-.027-.038a7.8,7.8,0,1,1,12.116-.007l-.006.008-5.637,7.225A.53.53,0,0,1,116.566,20.142Zm-5.154-7.995,5.154,6.6,5.207-6.674.019-.025a6.738,6.738,0,1,0-10.423.035A.537.537,0,0,1,111.412,12.147Z" transform="translate(-108.523)"/>
+    </g>
+  </g>
+</svg>
