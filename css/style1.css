@@ -384,7 +384,7 @@
 }
 
 .number_top {
-	margin-left: -20px;
+	margin-left: -13px;
 	position: absolute;
 	top: 5px;
 }
@@ -396,6 +396,7 @@
 .number_pt span {
 	font-size: 22px;
 	padding: 0px 3px;
+	margin-left: -26px;
 }
 
 .logo_store{
