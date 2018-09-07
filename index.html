@@ -171,7 +171,7 @@
 							</div>
 						</label>
 						<div>
-							<div class="collapse" id="slide-navbar-collapse1" style="display: none;">
+							<div class="collapse" id="slide-navbar-collapse1" style="display: none !important;">
 								<ul class="nav  menu_tongger">
 									<li>
 										<div class="pull-left closebtn1">
@@ -1077,9 +1077,9 @@
 
 <script>
 	$(document).ready(function(){
-		$(".im_icon_logo").click(function(){
+		$(".im_icon_logo,.icon_list_search").click(function(){
 			$("body").addClass("scroll");
-			$(".im_icon_logo").removeClass("scroll");
+			$(".im_icon_logo,.icon_list_search").removeClass("scroll");
 		});
 		$(".im_icon_logo").click(function(){
 			$("#slide-navbar-collapse").addClass("menu_tonggers1");
