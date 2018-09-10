@@ -1618,12 +1618,15 @@
 	.icon_network li {
 		margin-left: 20px !important;
 	}
+	.im_icon_logo a{
+		margin: -25px -14px;
+	}
 }
 
 @media screen and (max-width: 480px) {
 	.closebtn {
 		padding: 7px 21px !important;
-		left: -55px !important;
+		left: -54px !important;
 	}
 	#slide-navbar-collapse{
 		width: 83% !important;
