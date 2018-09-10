@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 15.262 21.802">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.6;
+        fill: url(#pattern);
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 61 87">
+      <image width="61" height="87" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD0AAABXCAYAAAC3DU3VAAAACXBIWXMAABcSAAAXEgFnn9JSAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA6VJREFUeNrkXItxozAQRTQQdxA6CB2EEujgKIESuApCOnAqCKngSAVHOsAd4Ao4ybN4lA+HQfsESJrZeCYzxvvY1f4l0fd9gFhCiEh+JJJije7+85UPSZ2kWlKjPiVvHYQ5BZqLCFgpqVWPZqBKUibpwMonE9iMpNMD6SgpWh00gW3BYNnBm6hxbRnsVyqsgZYrXxmsTmpLxTDQypiQYek3RsrCZ+ygCXCzQcA6lWygaf+2Gwd8NXLGoEnCewF8M/C9q/QY5UtBH3cKeKBkFmgKOvqdUzsWvo6pdecA6NH97aJaT6r5T+6pd4zqKdCVg6C/SVsHHDkK+Ju0Q62ekAfurkeq5HyunDhksSdjc3H5I0Qq//lq4Y2/UB7eEkXkIlOiO+BvnyTW6CppC26qnKpzEfgCrHHx1ZABkwoFIF1QlUEBL4bqb4R+swvLUR3KiiPj7Nyw6Jgg+BpcVgQyGqVhPb4mw8fehAjpjXKvguk5JYC3C+gD4MEVU/dFFTFOzLwlCvQD80M/mHtQDbdEQoCUuZtuDUK9fVsQ0Nw2It6Dej9It3DwDXRAyQOHT1WA7/cCmstPI3L8DgX6XkopN5SyCpp+AXhrQoDzH9YTqedSta5AfF3UuwW6h5oKFHMB18CCQjPEtzZGJm4tIqB5iQUZiydLgYFeLtL9uo1y0RDPi8EP9p7QpYgQUiZz9iQEbXQ/XXkCutJB1x4APlM15pOkzz5IebBmrrZoRyuzXjbwvgYIdeBTq9bbpjwBL13dy74M2pRzRqoSBwA3wa0jVQ6peezbmGRhMhAbu2Ctl4w+FzsCrAxwxDXkvhc1zzkn+6MduLEKcYYj37haHyCndTYcm6ewI0objdaONs5lpRsC3AYLzmEunfyptpgyokFv4RRPaf2A6cpJSWMyo7a4a0mVxeeVinyZaZvDRNprJCWF6flpYXo9AHUZ/1qS8LvkN1l9EoHaQr9tFOuN1ZpDvS0nJfmm7kSwkJRUnBdBsM2cyIe1jAM2GLXmVm9gUpJy8yi4L3ehwbmWaargRfKXcasO+0gVTQBzMHoKQGfFIHNkErhKSN5Moy7UNT7IKeAsWD6j9jw00BFLoC5sov2toqc/M7+mhuRjoDCgkl6alGQBenG7A8OkpEDzA3FZBkkJSzKxunrPSErOVtTalnrfmJTkNvmwot6amkcEXI/W3iQPaWBxWT2t80NSYlet1wBNwFWz/x0dda0WnEwkJco9rXIPwz8BBgAIwHgkAj/kHAAAAABJRU5ErkJggg=="/>
+    </pattern>
+  </defs>
+  <g id="placeholderblack-01" transform="translate(-1002 -357.045)">
+    <path id="placeholderblack-01-2" data-name="placeholderblack-01" class="cls-1" d="M0,0H15.262V21.8H0Z" transform="translate(1002 357.045)"/>
+  </g>
+</svg>

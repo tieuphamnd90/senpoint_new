@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 26.18 26.456">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#pattern);
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 95 96">
+      <image width="95" height="96" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAABgCAYAAAB7YK6NAAAACXBIWXMAABcSAAAXEgFnn9JSAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAABDxJREFUeNrsnYtx2zAMQOksYG1gdwIrE1jZwBvEmaDxBHU2cCeosoEyQZUJ6kxQZ4LKE7hED7omlmVTEg1QAnCHuybXk6gHEB9KZEaHw8E4SmT10erC6uzD7/dWM6trqzuj4iwjR/ix1dzq+ML/W1ndKFZ/8BOrPxtc89nqUtFelhsHj88aXvPeaqpou8F3DTVqAM/wu4BXA3SI+RFWLWNP99Ac0MDzM4/gdQY0gA8eOr/CfdQAF8KO73CjIaiB5z9eGbzOgDOeXxDA1xlwwvOXhOB1BhzBXzDcW7wBIOxAov3DOAaxIQg8P2Eeg9gZcINLCUYNINPzPxpgKQ1+SLLBZk8M/HlA4xkzVV7q+Sixwlf4IuFrwmWUXOHzyVYKfFheOAQ0nnerU/V8HtEmi0keJMX7Ev5rIOBTidVOoeD54G8VPB/8XMHzlZocb7LEg/8Y898UPF+pSRV6Vgq+Cp8KSKTIP8f88t87qxOCe34xuner0uFmRPdcK/aq50+t/ia67520pYRLnr8jXGpQ7zfVhTWqbZzw0n6pYae6nE+VePcY6gr1fPqQMDbCN0zXbYKm8n7RybfuZQplPE6lNl918HPCymcidcnh3NkLlHU/iLgFt3PvcCHuPxGOBZJvrJ7/XyAWbwmT7zsaoJDu+QYhUCZfMHImxfNdPh2B5PudcExzKbHf9aSpCI0wIxzbkxn4GtCowdeCEIt/EY9v0BVQky/WIPGuiMf3wwx4AW7U4jtZ8MR7nQE88DnivzEDPLlw1PILcR/HgLWRQe1WH3X4PD8xzY589CUvaIBrN2JT83mvwM74fvEP8Dvo8sAjW6vTjmOv0wVe/5TkVhNf9/JxkZTJAAWC8gne9VnWocDnNADIhukZ0lDgR2emKlUYihmcJw0BfggGaBsOus7a1gboUu3U9QA7hhL0eFl6adzeC/tqGFuVwL43xBVYgu4Z4U+wBM7M+W2lPjv1ducFXalci7Ea4ZYCQ1FEVCCkXDE/VAOA7LAnoajMUq6YH8oyRJ3sicbilAOuDT9EAwSzDkWxA30bQBLmkItJmGr7vxqAEb4agBm+GoAZfmkAaH7epBuA68iXshOWaIANN/zSADGWZJLkq8GzQynqfBdZW/0myAD/jjMLBb5Bb0gFNWO3IR3zlQnLA0loB9yVpaiEPBCFeK5m+Vn6w9D7gZBi/imJMQ/MBsj+LnT4Q62G9qGGnTr4twNKxhvuJqtNMoYwtOp5Lngr4fcl7FQqBXyA+x6CT7Co6O35+WVFBEcHvPYRfJ/hl5LjA4VuhAr4IcDvgxFOgh8S/FNGeAlgPM914PuccF1lirkBdEJ4X1i1hL8vnPW5w/UpCRoBVk+vtXK6xypsYxx2zkiCf7xssUCdefJ0AJ6aBtuVpMI/7hlinBkx/jx38PAthpXctDwGX+FfDlWnOm0vm/EUPqP8FWAAJ4k5Uki24vYAAAAASUVORK5CYII="/>
+    </pattern>
+  </defs>
+  <g id="call-answer-01" transform="translate(-151.227 -1947.323)">
+    <path id="call-answer-01-2" data-name="call-answer-01" class="cls-1" d="M0,0H26.18V26.456H0Z" transform="translate(151.227 1947.323)"/>
+  </g>
+</svg>

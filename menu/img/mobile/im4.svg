@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bdbdbd"/>
+      <stop offset="1" stop-color="#707070"/>
+    </linearGradient>
+  </defs>
+  <g id="Symbol_47_2" data-name="Symbol 47 – 2" transform="translate(-64 -176)">
+    <circle id="Ellipse_22" data-name="Ellipse 22" class="cls-1" cx="16" cy="16" r="16" transform="translate(64 176)"/>
+    <g id="Group_1266" data-name="Group 1266" transform="translate(1 -0.109)">
+      <g id="Group_1263" data-name="Group 1263" transform="translate(71 185.109)">
+        <g id="Group_1262" data-name="Group 1262" transform="translate(0 0)">
+          <path id="Path_282" data-name="Path 282" class="cls-2" d="M16.489,33.666l-7.9-5.784a.433.433,0,0,0-.512,0l-7.9,5.784a.433.433,0,0,0,.512.7l7.644-5.6,7.644,5.6a.433.433,0,0,0,.512-.7Z" transform="translate(0.001 -27.798)"/>
+        </g>
+      </g>
+      <g id="Group_1265" data-name="Group 1265" transform="translate(72.838 191.773)">
+        <g id="Group_1264" data-name="Group 1264" transform="translate(0 0)">
+          <path id="Path_283" data-name="Path 283" class="cls-2" d="M69.01,232.543a.433.433,0,0,0-.433.433v6.893H65.113v-3.763a2.165,2.165,0,1,0-4.331,0v3.763H57.318v-6.893a.433.433,0,1,0-.866,0V240.3a.433.433,0,0,0,.433.433h4.33a.433.433,0,0,0,.431-.4.327.327,0,0,0,0-.034v-4.2a1.3,1.3,0,1,1,2.6,0v4.2a.319.319,0,0,0,0,.033.433.433,0,0,0,.431.4h4.33a.433.433,0,0,0,.433-.433v-7.326A.433.433,0,0,0,69.01,232.543Z" transform="translate(-56.452 -232.543)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 42.107 42.107">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 7px;
+        font-family: Montserrat-Medium, Montserrat;
+        font-weight: 500;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#42a4dc"/>
+      <stop offset="1" stop-color="#4539b5"/>
+    </linearGradient>
+  </defs>
+  <g id="Symbol_44_2" data-name="Symbol 44 – 2" transform="translate(-172 -300.5)">
+    <circle id="Ellipse_10" data-name="Ellipse 10" class="cls-1" cx="21.053" cy="21.053" r="21.053" transform="translate(172 300.5)"/>
+    <g id="Group_731" data-name="Group 731" transform="translate(181.069 310.472)">
+      <g id="Group_730" data-name="Group 730" transform="translate(0)">
+        <g id="Group_729" data-name="Group 729">
+          <g id="shop_1_" data-name="shop (1)">
+            <path id="Path_180" data-name="Path 180" class="cls-2" d="M22.142,12.109a2.8,2.8,0,0,1-2.418-1.393,2.8,2.8,0,0,1-4.836,0,2.8,2.8,0,0,1-4.836,0,2.8,2.8,0,0,1-4.838,0A2.8,2.8,0,0,1,0,9.315V5.594a.389.389,0,0,1,.026-.138L1.811.88A.378.378,0,0,1,2.164.64h20.61a.378.378,0,0,1,.352.24l1.786,4.576a.374.374,0,0,1,.026.138V9.315A2.8,2.8,0,0,1,22.142,12.109ZM19.724,8.937a.378.378,0,0,1,.378.378,2.04,2.04,0,0,0,4.081,0V5.665L22.517,1.4H2.422L.756,5.665v3.65a2.04,2.04,0,0,0,4.08,0,.378.378,0,1,1,.756,0,2.041,2.041,0,0,0,4.082,0,.378.378,0,1,1,.756,0,2.04,2.04,0,0,0,4.08,0,.378.378,0,1,1,.756,0,2.04,2.04,0,0,0,4.081,0A.379.379,0,0,1,19.724,8.937Z" transform="translate(0 -0.64)"/>
+            <path id="Path_181" data-name="Path 181" class="cls-2" d="M22.05,29.134H4.08a1.644,1.644,0,0,1-1.643-1.643V19.529a.378.378,0,0,1,.756,0v7.962a.888.888,0,0,0,.887.887H22.05a.888.888,0,0,0,.888-.887V19.529a.378.378,0,0,1,.756,0v7.962A1.646,1.646,0,0,1,22.05,29.134Z" transform="translate(-0.595 -6.716)"/>
+          </g>
+        </g>
+      </g>
+      <text id="new" class="cls-3" transform="translate(12.029 18.504)"><tspan x="-7.648" y="0">new</tspan></text>
+    </g>
+  </g>
+</svg>
