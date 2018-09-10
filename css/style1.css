@@ -1,3 +1,4 @@
+
 @font-face {
 	font-family: font_menu;
 	src: url('../font/Helvetica/helveticaneue.ttf');
@@ -674,9 +675,7 @@
 	/* width: 215px; */
 	background: transparent;
 }
-.box_pr{
-	height: 199px;
-}
+
 .box_sl_detail {
 	margin-top: 20px;
 }
@@ -774,6 +773,7 @@
 	padding: 2px 12px;
 	font-family: font_menu;
 	margin-top: 2px;
+	background-color: white;
 }
 
 .time_store label {
@@ -1119,6 +1119,12 @@
 	padding-right: 15px;
 	padding-left: 15px;
 }
+.box_detail_left{
+	width: 70%;
+}
+.box_right{
+	width: 29%;
+}
 .mn_mar{
 	border-right:transparent !important;
 }
@@ -1218,7 +1224,7 @@
 	padding: 12.5px 15px 12.5px 15px;
 	font-size: 12px !important;
 	color: #2e2e2e;
-	height: 199px;
+	min-height: 227px;
 }
 .box_1 strong,.name_store{
 	font-size: 12px;
@@ -1227,20 +1233,25 @@
 .item-hover-show-text-info{
 	display: none;
 }
-.course-item-list:hover .thumbnail{
+.course-item-list:hover .item_box{
 	display: block !important;
 }
-._list_store_detail:hover .thumbnail{
+._list_store_detail{
+	margin-bottom: 15px;
+	 background-color: white;
+}
+._list_store_detail:hover .item_box{
 	display: none;
 }
 ._list_store_detail:hover .item-hover-show-text-info{
 	display: block !important;
 }
-._list_store .thumbnail .im_detail img{
-	height: 144px;
+._list_store .item_box .im_detail img{
+	min-height: 144px;
 }
 .count_recod{
 	font-family: helvetica_bold;
 	color: #ffb300;
 }
+
 /*end detail_store*/
