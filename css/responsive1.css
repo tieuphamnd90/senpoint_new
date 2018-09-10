@@ -147,19 +147,18 @@
 		width: 42%;
 	}
 	.info_store {
-		width: 84%;
+		width: 79%;
 	}
-    .box_maps{
-	    width: 59%;
-    }
+	.box_maps {
+		width: 57%;
+	}
     #jssor_1_detail{
 	    width: 753px !important;
     }
-	.box_name_detail {
-		width: 21.5%;}
-	.box_info_detail,.box_impotant{
-		width: 76%;
+	.icon_network li{
+		margin-left: 17px;
 	}
+
 	.navbar-fixed-top {
 			left: 74.3% !important;
 	}
@@ -167,10 +166,10 @@
 	    padding-top:  60px;
     }
 	.logo_store_detail {
-		padding-top: 37px ;
+		padding-top: 17px ;
 	}
 	.box_review_detail {
-		margin-top: 12% !important;
+		margin-top: 3% !important;
 	}
     /*box list_detail*/
 	.box_1,{
@@ -808,6 +807,9 @@
     .m_title_{
 	    padding: 16px 0px;
     }
+	.address{
+		font-size: 12px;
+	}
 }
 @media (max-width: 768px) {
 	.conten_mobile{
@@ -1282,6 +1284,7 @@
 	}
 	.info_store {
 		padding-left: 6px !important;
+		padding-top: 2px;
 	}
 
 	/*Footer */
@@ -1425,7 +1428,9 @@
     ._title_caption{
 	    font-size: 15px;
     }
-
+	.address{
+		font-size: 12px;
+	}
 }
 @media (max-width: 603px) {
 	/*menu*/
@@ -1619,17 +1624,21 @@
 		margin-left: 20px !important;
 	}
 	.im_icon_logo a{
+
 		margin: -25px -14px;
 	}
+    .address{
+	    font-size: 12px;
+    }
 }
 
 @media screen and (max-width: 480px) {
 	.closebtn {
 		padding: 7px 21px !important;
-		left: -54px !important;
+		left: -56px !important;
 	}
 	#slide-navbar-collapse{
-		width: 83% !important;
+		width: 85% !important;
 	}
 	.m_dowload_menu {
 		position: absolute;
