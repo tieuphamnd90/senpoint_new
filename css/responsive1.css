@@ -147,7 +147,8 @@
 		width: 42%;
 	}
 	.info_store {
-		width: 79%;
+		width: 85%;
+		padding: 0px 6px !important;
 	}
 	.box_maps {
 		width: 57%;
@@ -821,7 +822,7 @@
 	._list_store {
 		width: 47.6%;
 		margin-right: 2.3%;
-		margin-bottom:10px;
+		margin-bottom:15px;
 	}
 	/*menu */
 
@@ -1050,7 +1051,7 @@
 	}
 	#icon_search_top{
 		position: absolute;
-		left: 3%;
+		left: 1%;
 		top: 29%;
 	}
 	.icon_list_search{
@@ -1614,7 +1615,7 @@
 	}
 	.result_search{
 		font-size: 12px;
-		padding-bottom:0px
+		padding-bottom:10px
 	}
 	/*detail_store*/
 	.box_1{
