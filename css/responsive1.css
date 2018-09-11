@@ -147,8 +147,18 @@
 		width: 42%;
 	}
 	.info_store {
-		width: 85%;
 		padding: 0px 6px !important;
+		width: 80%;
+	}
+	.info_res {
+		padding: 0px 10px;
+	}
+	.box_pr {
+		 height:auto;
+	}
+	.box_1{
+		line-height: normal;
+		min-height: 159px;
 	}
 	.box_maps {
 		width: 57%;
@@ -820,7 +830,7 @@
 		margin-right: 0px;
 	}
 	._list_store {
-		width: 47.6%;
+		width: 47.5%;
 		margin-right: 2.3%;
 		margin-bottom:15px;
 	}
@@ -1432,6 +1442,13 @@
 	.address{
 		font-size: 12px;
 	}
+	.box_pr{
+		min-height: 234px;
+	}
+	.box_1 {
+		min-height: 234px;
+		line-height: 2;
+	}
 }
 @media (max-width: 603px) {
 	/*menu*/
@@ -1619,7 +1636,8 @@
 	}
 	/*detail_store*/
 	.box_1{
-		height: 166px !important;
+		min-height: 0;
+		line-height: 2 !important;
 	}
 	.icon_network li {
 		margin-left: 20px !important;
@@ -1631,6 +1649,9 @@
     .address{
 	    font-size: 12px;
     }
+	.box_pr{
+		min-height: 0px;
+	}
 }
 
 @media screen and (max-width: 480px) {
