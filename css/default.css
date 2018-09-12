@@ -18,6 +18,7 @@
 .info_review div,.box_dl_footer h3, .box_dl_footer div,.hotline,.email,.address_ft div,.m_title_search .col-xs-1,.m_title_search .col-xs-11{
 	color: white;
 }
-.wapper_slider ul li img,.info_res .col-md-3 img,.oper_point img,.img100,.box_case .col-md-6 img,.with100{
+.wapper_slider ul li img,.info_res .col-md-3 img,.oper_point img,.img100,.box_case .col-md-6 img,.with100,.m_detail_store a img,
+.icon_share li a img{
 	width: 100%;
 }
