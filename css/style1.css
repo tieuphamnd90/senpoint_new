@@ -1634,3 +1634,25 @@
 	padding-right: 10px;
 
 }
+.conten_detail_new{
+	padding-top: 50px;
+}
+.conten_percent{
+	padding-left:16px;
+}
+.icon_share img{
+	height: 21px;
+}
+
+/* css c?a hàng g?n b?n*/
+.store_map{
+	padding-top: 40px;
+}
+.maps_store_left{
+	width: 75%;
+	float: left;
+}
+.frm_search_right{
+	width: 25%;
+	float: right;
+}
