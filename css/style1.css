@@ -1643,16 +1643,45 @@
 .icon_share img{
 	height: 21px;
 }
-
+.time_new_detail span{
+	color: #707070;
+}
+.time_new_detail{
+	padding-top: 10px;
+}
 /* css c?a hàng g?n b?n*/
 .store_map{
 	padding-top: 40px;
 }
 .maps_store_left{
-	width: 75%;
+	width: 66.1%;
 	float: left;
 }
 .frm_search_right{
-	width: 25%;
+	width: 33.9%;
 	float: right;
+}
+.search-from-group{
+	background-color: #42A4DC;
+	padding: 20px;
+	border: 1px solid #dbdbdb;
+}
+.search-from-group .input-search-wrapper input{
+	border: none;
+	box-shadow: none;
+	background-color: white;
+	height: 34px;
+	padding: 10px 15px;
+	width: 298px;
+	border-top-left-radius: 40px;
+	border-bottom-left-radius: 40px;
+}
+.search-from-group .icon-search-wrapper{
+	padding: 10px;
+	background-color: #dbdbdb;
+	border-top-right-radius: 40px;
+	border-bottom-right-radius: 40px;
+}
+.frm_search_right .open>.dropdown-menu {
+	width: 118%;
 }

@@ -103,7 +103,9 @@
 		padding-top: 67px;
 	}
 
-
+.btn_download_detai_new{
+	left: 2%;
+	}
 }
 @media screen and (max-width: 1024px) {
 	.container {
@@ -1527,7 +1529,11 @@
 	._title_store_{
 		padding: 0px !important;
 	}
-    ._title_caption{
+	.title_bt_h2{
+		font-size: 15px;
+		font-family: helvetica_bold;
+	}
+    ._title_caption {
 	    font-size: 15px !important;
     }
 	.address{
@@ -1626,7 +1632,7 @@
 		.im_detail_store{
 			padding: 20px 0px;
 		}
-        .m_box_ft_detail,box_dt{
+        .m_box_ft_detail,.box_dt{
 	        padding: 0px;
         }
 		.info_res{
@@ -1805,6 +1811,19 @@
 	}
 	._m_point_left{
 		left: 14%;
+	}
+    /*detail_new*/
+	.menu_detail_new_mobile a {
+		text-decoration: none;
+		padding-left: 10px;
+		color:#2e2e2e;
+		font-size: 13px;
+	}
+	.color_default{
+		color: #42a4dc !important;
+	}
+	.color_edit{
+		color: #2e2e2e;
 	}
 }
 @media (max-width: 603px) {
