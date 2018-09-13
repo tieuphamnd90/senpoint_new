@@ -39,6 +39,9 @@
 .left10{
 	padding-left: 10px;
 }
+.right10{
+	padding-right: 10px;
+}
 .left20{
 	margin-left: 20px;
 }
@@ -746,7 +749,7 @@
 }
 
 	/*box conten list store*/
-.conten,.banner,.slider_top,.conten_mobile{
+.conten,.banner,.slider_top,.conten_mobile,.conten_new_mb{
 	background-color: #f3f3f3;
 }
 .title_promotion {
@@ -1611,4 +1614,23 @@
 	color: #2e2e2e;
 	padding-top: 10px;
 	text-decoration: none;
+}
+/*chi ti?t tin t?c*/
+.title_new_detail{
+	padding-top: 48px;
+	text-align: center;
+	padding-bottom: 20px;
+}
+.box_time_new span{
+	font-size: 10px;
+	color: #707070;
+}
+.title_new_detail div h2{
+	margin: 0px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.time_new{
+	border-right: 1px solid #707070;
+	padding-right: 10px;
+
 }
