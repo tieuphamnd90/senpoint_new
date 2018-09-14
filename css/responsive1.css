@@ -1812,6 +1812,9 @@
 	._m_point_left{
 		left: 14%;
 	}
+    .m_lg_detai_store{
+	    width: 11.5%;
+    }
     /*detail_new*/
 	.menu_detail_new_mobile a {
 		text-decoration: none;
