@@ -37,7 +37,7 @@
 		</div>
 	</div>
 </div>
-<div class="wapper _s_menu_top ">   
+<div class="wapper _s_menu_top hidden-xs hidden-sm  ">
 	<div class="  hidden-md hidden-lg">
 		<div class="col-sm-12 text-center im_logo">
 			<div class="im_logo_top">
@@ -165,7 +165,6 @@
 			</div>
 		</div>
 	</div>
-
 	<div class="_search hidden-xs hidden-sm ">
 		<div class="container ">
 			<div class="pd10">
@@ -251,20 +250,50 @@
 		</div>
 	</div>
 </div>
+
 <div class="clearfix"></div>
-<!--conten web-->
+<!--search mobile-->
+<div class="hidden-md hidden-lg">
+	<div class="search-from-mobile" >
+		<div style="border-radius: 40px;display: table" class="m_ipad">
+			<div class=" icon-search-back" >
+				<a href="#"><i class="fa fa-angle-left" aria-hidden="true"></i></a>
+			</div>
+			<div class=" input-search-wrapper">
+
+				<div class="dropdown ">
+					<input type="text" name="search" value="" placeholder="Tìm địa chỉ" id="active-menu-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<ul class="dropdown-menu m_store_drop" aria-labelledby="active-menu-dropdown">
+						<li><a href="#">Action</a></li>
+						<li><a href="#">Another action</a></li>
+						<li><a href="#">Something else here</a></li>
+						<li role="separator" class="divider"></li>
+						<li><a href="#">Separated link</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="pull-left icon-search-mobile">
+				<span class="glyphicon glyphicon-search"></span>
+			</div>
+		</div>
+	</div>
+</div>
+<!--end search mobile-->
 <div class="conten">
-	<div class="container ">
-		<div class="store_map row ">
-			<div class="maps_store_left">
+	<div class="container m_pd">
+		<div class="store_map  ">
+			<div class="maps_store_left box_shadow_df">
 				<iframe src="https://www.google.com/maps/embed?pb" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
 			</div>
-			<div class="frm_search_right">
-				<div class="search-from-group" >
+			<div class="frm_search_right box_shadow_df">
+				<div class="search-from-group hidden-sm hidden-xs" >
 					<div style="border-radius: 40px;display: table">
 						<div class="pull-left input-search-wrapper">
 							<div class="dropdown">
 								<input type="text" name="search" value="" placeholder="Nhập địa chỉ bạn muốn tìm kiếm" id="active-menu-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								<div class="pull-left icon-search-wrapper">
+									<span class="glyphicon glyphicon-search"></span>
+								</div>
 								<ul class="dropdown-menu" aria-labelledby="active-menu-dropdown">
 									<li><a href="#">Action</a></li>
 									<li><a href="#">Another action</a></li>
@@ -274,78 +303,100 @@
 								</ul>
 							</div>
 						</div>
-						<div class="pull-left icon-search-wrapper">
-							<span class="glyphicon glyphicon-search"></span>
-						</div>
+
 					</div>
 				</div>
-				<div class="">
-					<div class="font_bold ">
-						<h2 style="font-size: 15px;" class="no_margin"> Danh sách ưu đãi</h2>
-					</div>
-					<div class="m_list_qt">
-						<div class="pull-left box_same ">
-							<a href="#">
-								<img class="with100" src="img/detail/11.png">
-							</a>
+				<div>
+					<div class="no_pd ">
+						<div class="list_store_gb ">
+							<h2> Danh sách ưu đãi </h2>
 						</div>
-						<div class=" box__info_res">
-							<div class="caption_m  pull-left">
-								<div class="name_store_list text-left  font_defaul"><a href="#" class="_title_store_">Bánh mỳ Minh Nhật</a></div>
-								<div class="font_defaul address text-left"> <i class=" fa fa-map-marker _location" aria-hidden="true"></i>387 Bạch Mai, Quận Hai</div>
-								<div class="font_defaul address text-left"> <i class="  fa fa-tag _tag" aria-hidden="true"></i>387 Café/Deset, Tiệm bánh</div>
+						<div class="store_map_box">
+							<div class="m_list_qt">
+								<div class="pull-left box_same ">
+									<a href="#">
+										<img class="with100" src="img/detail/11.png">
+									</a>
+								</div>
+								<div class="caption_m m_info_gb  pull-left">
+									<a href="#" title="">
+										<span class="title_caption same_title">Độc quyền</span>
+										<span class="_title_caption">Bánh mỳ Minh Nhật - Hàng Khay - Mua 1 tặng 1</span>
+									</a>
+
+									<div class="m_add_qt font_defaul">32 Hàng Khay, Hoàn Kiếm, Hà Nội</div>
+								</div>
+								<div class="clearfix"></div>
+								<div class="line1 mt1"></div>
 							</div>
+							<div class="m_list_qt">
+								<div class="pull-left box_same ">
+									<a href="#">
+										<img class="with100" src="img/detail/11.png">
+									</a>
+								</div>
+								<div class="caption_m m_info_gb pull-left">
+									<a href="#" title="">
+										<span class="title_caption same_title">Độc quyền</span>
+										<span class="_title_caption">Bánh mỳ Minh Nhật - Hàng Khay - Mua 1 tặng 1</span>
+									</a>
+
+									<div class="m_add_qt font_defaul">32 Hàng Khay, Hoàn Kiếm, Hà Nội</div>
+								</div>
+								<div class="clearfix"></div>
+								<div class="line1 mt1"></div>
+							</div>
+							<div class="m_list_qt">
+								<div class="pull-left box_same ">
+									<a href="#">
+										<img class="with100" src="img/detail/11.png">
+									</a>
+								</div>
+								<div class="caption_m m_info_gb  pull-left">
+									<a href="#" title="">
+										<span class="title_caption same_title">Độc quyền</span>
+										<span class="_title_caption">Bánh mỳ Minh Nhật - Hàng Khay - Mua 1 tặng 1</span>
+									</a>
+
+									<div class="m_add_qt font_defaul">32 Hàng Khay, Hoàn Kiếm, Hà Nội</div>
+								</div>
+								<div class="clearfix"></div>
+								<div class="line1 mt1"></div>
+							</div>
+							<div class="m_list_qt">
+								<div class="pull-left box_same ">
+									<a href="#">
+										<img class="with100" src="img/detail/11.png">
+									</a>
+								</div>
+								<div class="caption_m m_info_gb  pull-left">
+									<a href="#" title="">
+										<span class="title_caption same_title">Độc quyền</span>
+										<span class="_title_caption">Bánh mỳ Minh Nhật - Hàng Khay - Mua 1 tặng 1</span>
+									</a>
+
+									<div class="m_add_qt font_defaul">32 Hàng Khay, Hoàn Kiếm, Hà Nội</div>
+								</div>
+								<div class="clearfix"></div>
+								<div class="line1 mt1"></div>
+							</div><div class="m_list_qt pd_bt10">
+							<div class="pull-left box_same ">
+								<a href="#">
+									<img class="with100" src="img/detail/11.png">
+								</a>
+							</div>
+							<div class="caption_m  m_info_gb pull-left">
+								<a href="#" title="">
+									<span class="title_caption same_title">Độc quyền</span>
+									<span class="_title_caption">Bánh mỳ Minh Nhật - Hàng Khay - Mua 1 tặng 1</span>
+								</a>
+
+								<div class="m_add_qt font_defaul">32 Hàng Khay, Hoàn Kiếm, Hà Nội</div>
+							</div>
+							<div class="clearfix"></div>
 						</div>
 
-						<div class="clearfix"></div>
-					</div>
-					<div class="m_list_qt">
-						<div class="pull-left box_same ">
-							<a href="#">
-								<img class="with100" src="img/detail/11.png">
-							</a>
 						</div>
-						<div class=" box__info_res">
-							<div class="caption_m  pull-left">
-								<div class="name_store_list text-left  font_defaul"><a href="#" class="_title_store_">Bánh mỳ Minh Nhật</a></div>
-								<div class="font_defaul address text-left"> <i class=" fa fa-map-marker _location" aria-hidden="true"></i>387 Bạch Mai, Quận Hai</div>
-								<div class="font_defaul address text-left"> <i class="  fa fa-tag _tag" aria-hidden="true"></i>387 Café/Deset, Tiệm bánh</div>
-							</div>
-						</div>
-
-						<div class="clearfix"></div>
-					</div>
-					<div class="m_list_qt">
-						<div class="pull-left box_same ">
-							<a href="#">
-								<img class="with100" src="img/detail/11.png">
-							</a>
-						</div>
-						<div class=" box__info_res">
-							<div class="caption_m  pull-left">
-								<div class="name_store_list text-left   font_defaul"><a href="#" class="_title_store_">Bánh mỳ Minh Nhật</a></div>
-								<div class="font_defaul address text-left"> <i class=" fa fa-map-marker _location" aria-hidden="true"></i>387 Bạch Mai, Quận Hai</div>
-								<div class="font_defaul address text-left"> <i class="  fa fa-tag _tag" aria-hidden="true"></i>387 Café/Deset, Tiệm bánh</div>
-							</div>
-						</div>
-
-						<div class="clearfix"></div>
-					</div>
-					<div class="m_list_qt pd_bt10">
-						<div class="pull-left box_same ">
-							<a href="#">
-								<img class="with100" src="img/detail/11.png">
-							</a>
-						</div>
-						<div class=" box__info_res">
-							<div class="caption_m  pull-left">
-								<div class="name_store_list text-left  font_defaul"><a href="#" class="_title_store_">Bánh mỳ Minh Nhật</a></div>
-								<div class="font_defaul address text-left"> <i class=" fa fa-map-marker _location" aria-hidden="true"></i>387 Bạch Mai, Quận Hai</div>
-								<div class="font_defaul address text-left"> <i class="  fa fa-tag _tag" aria-hidden="true"></i>387 Café/Deset, Tiệm bánh</div>
-							</div>
-						</div>
-
-						<div class="clearfix"></div>
 					</div>
 				</div>
 
@@ -692,5 +743,21 @@
 	});
 	//slider mobile
 
-
+	$(document).ready(function () {
+		$("#dropdownMenu1").click(function () {
+			$(".dropdownMenu1").addClass("blue");
+			$(".dropdownMenu2,.dropdownMenu3").removeClass("blue");
+		});
+		$("#dropdownMenu2").click(function () {
+			$(".dropdownMenu2").addClass("blue");
+			$(".dropdownMenu1,.dropdownMenu3").removeClass("blue");
+		});
+		$("#dropdownMenu3").click(function () {
+			$(".dropdownMenu3").addClass("blue");
+			$(".dropdownMenu1,.dropdownMenu2").removeClass("blue");
+		});
+		$("#input_search").click(function () {
+			$(".dropdownMenu1,.dropdownMenu2,.dropdownMenu3").removeClass('blue');
+		});
+	});
 </script>

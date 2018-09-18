@@ -1821,3 +1821,38 @@
 	padding-top: 20px;
 	color: #707070;
 }
+/*css lendding*/
+.box_left_lendding,.box2 .box_right_ld{
+	width: 60%;
+	float: left;
+}
+.box_right_ld,.box2 .box_left_lendding,.box2 .img{
+	width: 30%;
+	float: left;
+	padding-top: 30px;
+}
+.box_left_lendding{
+	text-align: right;
+	padding-top: 50px;
+	padding-top: 12%;
+	padding-right: 10%;
+	font-size: 16px;
+}
+.conten_lending{
+	background-color: white;
+	padding: 0px 60px;
+}
+.box2{
+	padding-left: 14%;
+}
+.conten_box2{
+	padding-left: 14%;
+	padding-top: 3%;
+	font-size: 16px;
+}
+.box3 .box_left_lendding{
+	padding-top:0%;
+}
+.conten_box4{
+	padding-top: 18%;
+}

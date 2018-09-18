@@ -1865,6 +1865,7 @@
     .box_reg_left,.box_reg_right{
 	    width: 100%;
 	    height: inherit;
+	    background-size: cover;
     }
 	.title_reg_left{
 		top: 6% !important;
