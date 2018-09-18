@@ -80,13 +80,11 @@
 	}
 	.caption_m a{
 		text-decoration: none;
-		font-family: font-menu;
 		font-size: 13px;
 		color: #2e2e2e;
 		font-weight: 600;
 	}
 	.m_add_qt{
-		font-family: font-menu;
 		font-size: 13px;
 		color:#707070;
 	}
@@ -108,6 +106,7 @@
 	}
 }
 @media screen and (max-width: 1024px) {
+
 	.container {
 		width: 100%;
 	}
@@ -204,6 +203,30 @@
     .m_icon_logo{
 	    width: 18%;
     }
+	/*register store*/
+	.title_reg_left {
+		left: 12%;
+		top: 43%;
+	}
+	.btn_submit {
+		margin-top: 50px;
+		padding-bottom: 21px;
+	}
+	.btn_submit a {
+		padding: 10px 78px;
+	}
+	.search-from-group .input-search-wrapper input{
+		width: 245px;
+		float: left;
+	}
+    .m_info_gb{
+	    width: 70%;
+	    padding-left: 10px;
+    }
+	.box_reg_left {
+		background: url(../img/bg_conten_reg.png) no-repeat;
+		width: 618px;
+		height: 569px;}
 }
 @media screen and (max-width: 980px) {
 	._list_store:last-child {
@@ -1828,6 +1851,97 @@
 	.color_edit{
 		color: #2e2e2e;
 	}
+    /*register store*/
+	.bg_reg{
+		background: white;
+	}
+	.m_banner_reg{
+		height: 120px;
+		overflow: hidden;
+	}
+	.title_reg_left a{
+		font-size: 13px;
+	}
+    .box_reg_left,.box_reg_right{
+	    width: 100%;
+	    height: inherit;
+    }
+	.title_reg_left{
+		top: 6% !important;
+		left: 40% !important;
+	}
+	.text_bt{
+		font-size: 9px;
+	}
+	.frm_register{
+		padding: 24px;
+	}
+	.btn_submit{
+		text-align: center;
+	}
+	.maps_store_left,.frm_search_right{
+		width: 100%;
+	}
+    .maps_store_left{
+	    height: 200px;
+    }
+	.store_map{
+		padding-top:0px;
+	}
+    .search-from-mobile{
+	    background-color: #ffb300;
+	    padding: 7px;
+    }
+	.search-from-mobile .input-search-wrapper input{
+		border: none;
+		box-shadow: none;
+		background-color: white;
+		height: 34px;
+		padding: 10px 24px;
+
+		margin-left: 55px;
+	}
+    .icon-search-mobile{
+	    position: absolute;
+	    margin-top: -23px;
+	    margin-left: 60px;
+    }
+    .icon-search-back{
+	    position: absolute;
+	    padding-left: 14px;
+    }
+    .icon-search-reg{
+	    position: absolute;
+	    padding-left: 14px;
+	    padding-left: 30px;
+	    padding-top: 30px;
+    }
+    .icon-search-back i,.icon-search-reg i{
+	    font-size: 30px;
+	    color: white;
+    }
+    .m_store_drop{
+	    margin-left: 54px;
+	    width: 85%;
+    }
+	.search-from-mobile .input-search-wrapper input{
+		width: 89%;
+	}
+	.m_ipad{
+		width:100%
+	}
+	.m_store_drop {
+		width: 89% !important;
+	}
+    .m_info_left{
+	    padding-top: 5px !important;
+    }
+	.m_info_gb{
+		margin-top: 5px !important;
+	}
+	.m_pd{
+		padding: 0px !important;
+	}
 }
 @media (max-width: 603px) {
 	/*menu*/
@@ -2144,7 +2258,35 @@
 		left: 49%;
 		background-size: 31px;
 	}
-
+	/*reg store*/
+	.title_reg_left{
+		top: 6% !important;
+		left: 20% !important;
+	}
+	.search-from-mobile .input-search-wrapper input{
+		border: none;
+		box-shadow: none;
+		background-color: white;
+		height: 34px;
+		padding: 10px 30px;
+		margin-left: 32px;
+		border-radius: 5px;
+	}
+	.icon-search-mobile{
+		position: absolute;
+		margin-top: -23px;
+		margin-left: 39px;
+	}
+	.m_store_drop {
+		width: 89% !important;
+		margin-left: 33px;
+	}
+    .icon-search-back{
+	    padding-left: 7px;
+    }
+    .m_pd{
+	    padding: 0px !important;
+    }
 }
 
 @media screen and (max-width: 480px) {
@@ -2165,5 +2307,14 @@
 	}
 	.icon_network li {
 		margin-left: 7px !important;
+	}
+
+	.icon-search-mobile{
+		position: absolute;
+		margin-top: -25px;
+		margin-left: 39px;
+	}
+	.m_store_drop {
+		width: 83%;;
 	}
 }

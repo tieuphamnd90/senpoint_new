@@ -880,10 +880,10 @@
 	transform: translate(0,-2px);
 }
 .name_store_list a, .name_store_list a:hover,.name_store a,.name_store a:hover{
-	font-size: 12px;
+	font-size: 13px;
 	font-family: helvetica_bold;
 	text-decoration: none;
-	color: black;
+	color: #2e2e2e;
 }
 .info_store {
 	padding-left: 6px;
@@ -1652,14 +1652,16 @@
 /* css c?a hàng g?n b?n*/
 .store_map{
 	padding-top: 40px;
+	padding-bottom: 67px;
 }
 .maps_store_left{
-	width: 66.1%;
+	width: 66.6%;
 	float: left;
 }
 .frm_search_right{
-	width: 33.9%;
+	width: 33.4%;
 	float: right;
+
 }
 .search-from-group{
 	background-color: #42A4DC;
@@ -1670,18 +1672,152 @@
 	border: none;
 	box-shadow: none;
 	background-color: white;
-	height: 34px;
+	height: 44px;
 	padding: 10px 15px;
-	width: 298px;
-	border-top-left-radius: 40px;
-	border-bottom-left-radius: 40px;
+	width: 272px;
+	border-top-left-radius: 13px;
+	border-bottom-left-radius: 13px;
+	float: left;
+}
+.search-from-group .input-search-wrapper input::placeholder {
+	font-size: 12px;
+	color: #BDBDBD;
+}
+.search-from-group .icon-search-wrapper span{
+	color: #BDBDBD;
+}
+.same_title{
+	font-size: 10px;
+}
+.store_map_box .m_list_qt{
+	padding-top: 20px !important;
+}
+.list_store_gb h2{
+	padding-left: 10px;
+	font-weight: bold;
+	font-size: 16px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-color: white;
+	padding-top: 10px;
 }
 .search-from-group .icon-search-wrapper{
-	padding: 10px;
-	background-color: #dbdbdb;
-	border-top-right-radius: 40px;
-	border-bottom-right-radius: 40px;
+	padding: 15px;
+	background-color: #F3F3F3;
+	border-top-right-radius: 13px;
+	border-bottom-right-radius: 13px;
 }
 .frm_search_right .open>.dropdown-menu {
-	width: 118%;
+	width: 100%;
+	top: 41px;
+}
+.store_map_box{
+	background-color: white;
+	overflow-y:scroll;
+	height: 367px;
+	padding-left: 5px;
+}
+.m_info_gb{
+	margin-top: 5px !important;
+}
+.store_map{
+	height: 587px;
+	overflow: hidden;
+}
+
+/*register store*/
+.btn_submit{
+	margin-top: 58px;
+	padding-bottom: 56px;
+
+}
+.frm_reg_right input,.frm_reg_right input:focus{
+	border-top:none;
+	border-right:none;
+	border-left:none;
+	margin-top:15px;
+	outline-width: 0;
+	width: 100%;
+}
+.btn_submit a{
+	padding: 10px 87px;
+	background-color: #ffb300;
+	text-decoration: none;
+	font-family: helvetica_bold;
+	color: white;
+	width: 100%;
+	border-radius: 20px;
+}
+.number_reg{
+	color: #ffb300;
+	font-family: helvetica_bold;
+	font-size: 23px;
+}
+._title_frm{
+	font-size: 16px;
+	color: #707070;
+}
+
+.frm_register{
+	padding: 64px 95px 61px 95px;
+}
+.m_banner_reg{
+
+}
+.box_reg{
+	padding-bottom: 70px;
+}
+.title_reg_left a{
+	font-size: 22px;
+	padding: 10px;
+	background-color: white;
+	text-decoration: none;
+	color: #2e2e2e;
+	font-family: helvetica_bold;
+	text-transform: uppercase;
+}
+.text_bt{
+	color: white;
+	font-size: 12px;
+	padding-top: 10px;
+}
+.title_reg_left{
+	position: absolute;
+	margin: auto;
+	bottom: 50%;
+	left: 13%;
+}
+.logo_reg{
+
+	width: 21.4%;
+	padding: 20px 0px;
+}
+.pd40{
+	padding: 40px;
+}
+.box_reg{
+	position: relative;
+}
+.box_reg_left{
+	background:  url(../img/bg_conten_reg.png) no-repeat ;
+	width: 666px;
+	height: 612px;
+	background-size: cover;
+}
+.box_reg_right{
+	width: 39.6%;
+	background-color: white;
+}
+.bg_reg{
+	background: url(../img/bg_reg.png) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+._city{
+	border-bottom: 2px solid #eeeeee;
+	font-size: 11px;
+	padding-top: 20px;
+	color: #707070;
 }
