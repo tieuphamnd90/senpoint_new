@@ -1657,11 +1657,10 @@
 		.m_title_case_bt{
 			font-size: 30px;
 			text-align: left;
-			font-weight: 600;
 		}
 		.title_m_righ{
 			margin-left: 84px;
-			margin-top: -35px;
+			margin-top: -28px;
 			float: left;
 		}
 		._s_menu_top{
@@ -1838,7 +1837,7 @@
 
 	.info_review{
 		position: absolute;
-		left: 10%;
+		left: 6%;
 		top: 73%;
 	}
 	.im_user_review{
