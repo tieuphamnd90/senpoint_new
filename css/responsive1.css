@@ -101,8 +101,14 @@
 		padding-top: 67px;
 	}
 
-.btn_download_detai_new{
-	left: 2%;
+	.btn_download_detai_new{
+		left: 2%;
+	}
+
+}
+@media screen and (min-width: 768px) {
+	.m_guid_1024{
+		padding-left: 30%;
 	}
 }
 @media screen and (max-width: 1024px) {
@@ -227,6 +233,31 @@
 		background: url(../img/bg_conten_reg.png) no-repeat;
 		width: 618px;
 		height: 569px;}
+	.conten_box2 {
+		padding-left: 18%;
+		width: 66%;
+	}
+	.box_left_lendding{
+		padding-right: 12%;
+	}
+	.m_conten_guid_box3{
+		padding-left: 40px;
+	}
+
+	.litst_hd_box {
+		padding: 0px 19px 50px 5px;
+	}
+	.box_left_box3{
+		padding-right: 18%;
+	}
+    .conten_extenion_box2{
+	    width: 65%;
+    }
+    .m_conten_box4_extenion{
+	    width: 65%;
+	    padding-left: 16%;
+    }
+
 }
 @media screen and (max-width: 980px) {
 	._list_store:last-child {
@@ -863,6 +894,7 @@
 	}
 }
 @media (max-width: 768px) {
+
 	.conten_mobile{
 		padding-bottom: 20px;
 	}
@@ -1821,7 +1853,7 @@
 	.dl_footer {
 		background-image: url(../img/mobile/banner_footer.png);
 		background-repeat: no-repeat;
-		margin-top: 10px !important;
+		/*margin-top: 10px !important;*/
 		background-size: 100%;
 	}
 
@@ -1943,8 +1975,31 @@
 	.m_pd{
 		padding: 0px !important;
 	}
+	.navlendding{
+		margin: 0px 0 -5px 17px;
+		background: none;
+	}
+	.navlendding a{
+		background: none;
+	}
+    .m_icon_lendding{
+	    margin: -43px 14px !important;
+    }
+	.m_guid_{
+		width: 17%;
+	}
+    .m_conten_guid_box3{
+	    padding-left: 30px;
+    }
+	.m_conten_guid {
+		padding: 0px 50px;
+	}
 }
 @media (max-width: 603px) {
+	.m_icon_lendding{
+		margin: -25px -14px !important;
+	}
+
 	/*menu*/
 	.icon_list_search{
 		top: 25%;
@@ -2288,8 +2343,27 @@
     .m_pd{
 	    padding: 0px !important;
     }
-}
+    .m-search-home{
+	    margin-bottom: 20px;
+    }
+    .m_menu_home{
+	    padding-top: 3%;
+    }
+	.navlendding{
+		margin: 0px 0 -5px -14px;
+	    background: none;
+	}
+    .navlendding a{
+	    background: none;
+    }
+    .m_guid_{
+	    width: 17%;
+    }
 
+}
+@media screen and (max-width: 568px) {
+
+}
 @media screen and (max-width: 480px) {
 	.closebtn {
 		padding: 7px 21px !important;
@@ -2317,5 +2391,8 @@
 	}
 	.m_store_drop {
 		width: 83%;;
+	}
+	.m_conten_guid{
+		padding: 0px 24px;
 	}
 }
